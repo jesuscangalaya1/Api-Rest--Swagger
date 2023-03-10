@@ -1,6 +1,7 @@
-# todo-api
+# api rest !!
 ToDO API using Spring Boot
 
-Un proyecto de ejemplo para aprender Spring Boot. 
+Un proyecto Mejorado, implemente relaciones @OneToMany y @ManytoOne y mapeos Bidireccionales.
 
-La explicación completa esta acá: https://www.youtube.com/watch?v=z_dLYcQqSHI
+
+
